@@ -1,0 +1,124 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+    background-color: rgb(43, 17, 17);
+}
+
+.logo{
+    text-align: right;
+    overflow:hidden;
+}
+
+.logo a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.logo a:hover{
+    color: grey;
+}
+
+/*for the nav bar*/
+
+nav ul{
+    list-style-type: none; 
+    overflow: hidden;
+    background-color: rgb(48, 36, 36);
+    padding: 0;
+    margin: 0;
+
+}
+
+li a{
+    float: left;
+    margin-left: 360px;
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover{
+    color:red;
+}
+
+
+/*end of navbar*/
+
+/*main content for Home Page*/
+main{
+    color:white;
+}
+
+.homeimg{
+    padding-left: 400px;
+    margin:auto;
+}
+
+section{
+    display:flex;
+    overflow: hidden;
+    color:white;
+    background-color: rgb(48, 36, 36);
+}
+.colgridbox{
+    margin:auto;
+}
+
+/*end of main content for home page*/
+
+/*footer for all pages*/
+footer{
+    background
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*for the login form*/
+
+.login-page{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+
+.loginform{
+    background-color: white;
+    margin: 0 auto 100px;
+    padding: 10px;
+    text-align: center;
+    width: 360px;
+}
+
+.loginform input{
+    background-color: black;
+    outline: black;
+    width: 350px;
+    border: 0px;
+}
+
+/*end of login form*/

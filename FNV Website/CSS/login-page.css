@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    body{
+        background-color: rgb(43, 17, 17);
+    }
+     
+
+/*for the login form*/
+
+main h1{
+    color: white;
+    text-align: center ;
+}
+
+.login-page{
+    width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+
+#login-form{
+    background-color: white;
+    margin: 0 auto 100px;
+    padding: 10px;
+    text-align: center;
+    width: 360px;
+}
+
+.login-form input{
+    background-color: black;
+    outline: black;
+    width: 350px;
+    border: 0px;
+}
+
+#submit-button{
+    margin: 10px;
+}
+
+/*end of login form*/
